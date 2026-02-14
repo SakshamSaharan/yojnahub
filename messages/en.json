@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "YojnaHub - Your Scheme, Your Right",
+    "subtitle": "Find government schemes tailored just for you - in seconds.",
+    "getStarted": "Check Your Eligibility",
+    "heroStats": "{count} users matched with schemes today"
+  },
+  "Navigation": {
+    "home": "Home",
+    "schemes": "Schemes",
+    "about": "About",
+    "login": "Login"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "copyright": "© 2026 YojnaHub. All rights reserved."
+  },
+  "Results": {
+    "title": "Your Eligibility Results",
+    "basedOn": "Based on:",
+    "eligible": "Eligible",
+    "partial": "Action Required",
+    "notEligible": "Not Eligible",
+    "why": "Why?",
+    "schemeDetails": "Scheme Details & Benefits",
+    "documentsRequired": "Documents Required",
+    "howToApply": "How to Apply:",
+    "downloadChecklist": "Download Checklist",
+    "apply": "Apply",
+    "voice": "Voice"
+  }
+}
